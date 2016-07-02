@@ -38,7 +38,7 @@ The effect：
     android:useLevel="false">
     <solid android:color="#fff"/>
     <corners android:radius="25dip" />
-    <size android:width="200dp"
+    <size android:width="100dp"
           android:height="100dp"/>
 
 </shape>
