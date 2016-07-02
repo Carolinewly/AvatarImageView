@@ -80,7 +80,7 @@ public class AvatarImageView  extends ImageView {
     {
         Paint paint = new Paint();
         paint.setAntiAlias(true);
-        Bitmap finalBmp = Bitmap.createBitmap(viewWidth,viewWidth, Bitmap.Config.ARGB_8888);
+        Bitmap finalBmp = Bitmap.createBitmap(viewWidth,viewHeight, Bitmap.Config.ARGB_8888);
         /**
          * 产生一个同样大小的画布
          */
